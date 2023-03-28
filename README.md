@@ -17,7 +17,7 @@ Along with each of the kernals three folds were used and each of these folds was
 
 ## Usage
 
-To run the code for this assignement, the [chess dataset]( https://www.kaggle.com/datasets/datasnaek/chess) will need to be downloaded from kaggle. Next, the Assignment3_ML.ipynb file will need to be run from Google Collab (preferred) or jupyter notebook. 
+To run the code for this assignement, the [chess dataset]( https://www.kaggle.com/datasets/datasnaek/chess) will need to be downloaded from kaggle. Next, the Assignment3_ML.ipynb file will need to be run from Google Colab (preferred) or jupyter notebook. 
 
 ### Dependencies
 
