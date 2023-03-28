@@ -29,4 +29,5 @@ To run the code for this assignement, the [chess dataset]( https://www.kaggle.co
 
 ## Results
 
+It takes a lot longer than I expected to run these models. I was unable to finish running any of the models in time. 
 
