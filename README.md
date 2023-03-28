@@ -7,6 +7,17 @@
 
 ## Overview
 
+In this assignment we looked at three different kernal types for a support vector machine. The kernals used were:
+
+1. **Linear**
+2. **Polynomial**
+3. **Radial Basis Function - RBF**
+
+Along with each of the kernals three folds were used and each of these folds was trained on a learning curve estimator. In total there were 9 models created, each of which cross validated with a 3-fold stratified k-fold. 
+
+## Usage
+
+To run the code for this assignement, the [chess dataset]( https://www.kaggle.com/datasets/datasnaek/chess) will need to be downloaded from kaggle. Next, the 
 
 ## Results
 
